@@ -14,7 +14,7 @@ GEM
       syntax (>= 1.0.0)
     mutter (0.5.3)
     polyglot (0.3.3)
-    rack (1.4.1)
+    rack (1.6.13)
     rack-test (0.5.3)
       rack (>= 1.0)
     rake (0.9.2.2)
